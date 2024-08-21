@@ -1,0 +1,232 @@
+<style>
+	.rs {border-bottom: 1px solid #595959;<br />		border-collapse: collapse;<br />		box-shadow: inset 2px 0 0 #327ed2, inset -2px 0 0 #327ed2;<br />		padding-right: 1%!important;<br />		padding-left: 1%!important;<br />		background-color: #327ed2!important;<br />                border-top: 8px solid #327ed2;<br />		min-width: 115px;<br />		font-size:16px;<br />		font-weight:bold;<br />		letter-spacing: 1px;<br />		color:white;<br />		padding-top:13px!important;<br />		vertical-align: middle;<br />		line-height: 1.3rem;<br />	}<br />	/* .rsbefore {<br />		position: relative;<br />	}<br />	.rsbefore::before {<br />		content: "";<br />		width: 50px;<br />		position: absolute;<br />		bottom: 0;<br />		left: 60px;<br />		border: 6px solid #f1592a;<br />		border-radius: 20px 20px 0 0;<br />		box-shadow: inset 0 20px 0 #fff;<br />		height: calc(100% + 18px);<br />	} */</p>
+</style>
+
+<style>
+	.rs {
+		border-bottom: 1px solid #595959;
+		border-collapse: collapse;
+		box-shadow: inset 2px 0 0 #327ed2, inset -2px 0 0 #327ed2;
+		padding-right: 1%!important;
+		padding-left: 1%!important;
+		background-color: #327ed2!important;
+        border-top: 8px solid #327ed2;
+		min-width: 115px;
+		font-size:16px;
+		font-weight:bold;
+		letter-spacing: 1px;
+		color:white;
+		padding-top:13px!important;
+		vertical-align: middle;
+		line-height: 1.3rem;
+	}
+	
+</style>
+
+
+
+<style>
+	.rs {<br />		border-bottom: 1px solid #595959;<br />		border-collapse: collapse;<br />		box-shadow: inset 2px 0 0 #327ed2, inset -2px 0 0 #327ed2;<br />		padding-right: 1%!important;<br />		padding-left: 1%!important;<br />		background-color: #327ed2!important;<br />                border-top: 8px solid #327ed2;<br />		min-width: 115px;<br />		font-size:16px;<br />		font-weight:bold;<br />		letter-spacing: 1px;<br />		color:white;<br />		padding-top:13px!important;<br />		vertical-align: middle;<br />		line-height: 1.3rem;<br />	}<br />	/* .rsbefore {<br />		position: relative;<br />	}<br />	.rsbefore::before {<br />		content: "";<br />		width: 50px;<br />		position: absolute;<br />		bottom: 0;<br />		left: 60px;<br />		border: 6px solid #f1592a;<br />		border-radius: 20px 20px 0 0;<br />		box-shadow: inset 0 20px 0 #fff;<br />		height: calc(100% + 18px);<br />	} */</p>
+</style>
+<h2>精密塗工</h2>
+<h3>枚葉式RSコータ™</h3>
+<h4>ダイヘッドに独自の幅替機構を搭載！基板形状問わず様々な形状の塗布に対応します。</h4>
+<img src="//chugai.co.jp/wp/wp-content/uploads/2020/06/pat_mark-03.png" />
+
+<a href="//chugai.co.jp/wp/wp-content/uploads/2020/06/20230530RSLABO.pdf" target="_blank"><img src="//chugai.co.jp/wp/wp-content/uploads/2020/06/RSLABO-BTN230530.png" /></a>
+
+<a href="//chugai.co.jp/rs-coater-news-cf/" target="_blank"><img src="//chugai.co.jp/wp/wp-content/uploads/2021/03/sustainable-btn.png" /></a>
+
+<img src="//chugai.co.jp/wp/wp-content/uploads/2021/03/rs-corter2211.jpg" />　<img src="//chugai.co.jp/wp/wp-content/uploads/2021/03/RtoRtypeRScoater-on-cach.png" />
+<p style="border-left: 7px solid #b22222; border-bottom: 1px solid #b22222; padding-left: 16px;">特 長</p>
+
+<ul>
+ 	<li>独自の幅替え機構で様々な塗布形状を実現</li>
+ 	<li>パターン塗布で材料ロスを極限まで低減</li>
+ 	<li>独自の幅替え機構により塗布のレスポンス速度も向上
+<ul style="margin-bottom: 0px!important;">
+ 	<li style="font-size: 0.9em;">塗布始終端での高い吐出安定性</li>
+ 	<li style="font-size: 0.9em;">シャープなコーナーエッジの実現
+(幅替え機構にてあえてR部を作ることも可)</li>
+ 	<li style="font-size: 0.9em;">始終端でのわずらわしい補正レシピ不要</li>
+</ul>
+</li>
+ 	<li>高粘度塗布液・厚膜塗布にも対応
+(膜厚数百μmでも重ね塗り不要)</li>
+</ul>
+<img src="//chugai.co.jp/wp/wp-content/uploads/2021/03/rs-coater-houkou.png" />
+
+<img src="//chugai.co.jp/wp/wp-content/uploads/2021/03/RS-coater-fig.png" />
+
+<a href="//chugai.co.jp/rs-inquiry/" target="_blank"><img src="//chugai.co.jp/wp/wp-content/uploads/2020/06/ikei-form-btm.png" /></a>
+以下のような形状の塗布も可能です！
+<img src="//chugai.co.jp/wp/wp-content/uploads/2020/06/New-Coating-Direction.png" />
+<h4>優れた膜厚精度（Uniformity）</h4>
+<a href="//chugai.co.jp/wp/wp-content/uploads/2021/03/rs-coater-bunpu-l.jpg" target="_blank"><img src="//chugai.co.jp/wp/wp-content/uploads/2021/03/rs-coater-bunpu-s.jpg" /></a>
+（図をクリックで拡大表示）
+<h4>低粘度領域も塗工可能に！</h4>
+<a href="//chugai.co.jp/wp/wp-content/uploads/2021/03/RS-ryouiki1L.jpg" target="_blank"><img src="//chugai.co.jp/wp/wp-content/uploads/2021/03/RS-ryouiki1.jpg" /></a>
+（図をクリックで拡大表示）
+
+<a href="//chugai.co.jp/wp/wp-content/uploads/2021/03/RS-ryouiki2L.jpg" target="_blank"><img src="//chugai.co.jp/wp/wp-content/uploads/2021/03/RS-ryouiki2.jpg" /></a>
+（図をクリックで拡大表示）
+
+<img src="//chugai.co.jp/wp/wp-content/uploads/2020/06/rs-coater-manga.png" />
+<!-- 表の挿入 -->
+<h4>多様な塗布を全てカバー！</h4>
+<div id="table-container" style="overflow-x: scroll!important;">
+<table class="rsbefore" style="max-width: 560px;">
+<tbody style="text-wrap: nowrap;">
+<tr style="font-size: 14px; height: 50px;">
+<th style="border-top: 1px solid #595959; border-left: 1px solid #595959; border-collapse: collapse; padding-right: 1%!important; padding-left: 1%!important; background-color: #ffffff; min-width: 100px; font-size: 10px; letter-spacing: 1px; color: black;"></th>
+<th class="rs">RSコータ</th>
+<th style="border: 1px solid #595959; border-collapse: collapse; padding-right: 1%!important; padding-left: 1%!important; background-color: #eaeaea; min-width: 83px; font-size: 14px; letter-spacing: 1px; color: #848484; vertical-align: middle; line-height: 1.3rem!important;">スリット
+コータ</th>
+<th style="border: 1px solid #595959; border-collapse: collapse; padding-right: 1%!important; padding-left: 1%!important; background-color: #eaeaea; min-width: 83px; font-size: 14px; letter-spacing: 1px; color: #848484; vertical-align: middle; line-height: 1.3rem!important;">インク
+ジェット</th>
+<th style="border: 1px solid #595959; border-collapse: collapse; padding-right: 1%!important; padding-left: 1%!important; background-color: #eaeaea; min-width: 83px; font-size: 14px; letter-spacing: 1px; color: #848484; vertical-align: middle; line-height: 1.3rem!important;">ディス
+ペンサー</th>
+<th style="border: 1px solid #595959; border-collapse: collapse; padding-right: 1%!important; padding-left: 1%!important; background-color: #eaeaea; min-width: 83px; font-size: 14px; letter-spacing: 1px; color: #848484; vertical-align: middle; line-height: 1.3rem!important;">スクリーン
+印刷</th>
+</tr>
+<tr style="font-size: 12px; height: 50px;">
+<td style="border-top: 1px solid #595959; border-bottom: 1px solid #595959; border-left: 1px solid #595959; border-collapse: collapse; font-size: 16px; color: #232323; padding-right: 1%!important; padding-left: 1%!important; min-width: 90px; background-color: #e1f5ff; letter-spacing: 0.1rem;">異形塗布</td>
+<td style="border-top: 1px solid #595959; border-bottom: 1px solid #595959; border-collapse: collapse; box-shadow: inset 4px 0 0 #327ed2, inset -4px 0 0 #327ed2; color: #327ed2; font-size: 18px; background-color: #e1f6ff;">●</td>
+<td style="border: 1px solid #595959; border-collapse: collapse; font-size: 12px; color: #c0c0c0;"></td>
+<td style="border: 1px solid #595959; border-collapse: collapse; font-size: 12px; color: #c0c0c0;">●</td>
+<td style="border: 1px solid #595959; border-collapse: collapse; font-size: 12px; color: #c0c0c0;">●</td>
+<td style="border: 1px solid #595959; border-collapse: collapse; font-size: 12px; color: #c0c0c0;">●</td>
+</tr>
+<tr style="font-size: 12px; height: 50px;">
+<td style="border-top: 1px solid #595959; border-bottom: 1px solid #595959; border-left: 1px solid #595959; border-collapse: collapse; font-size: 16px; color: #232323; padding-right: 1%!important; padding-left: 1%!important; min-width: 55px; background-color: #e1f5ff; letter-spacing: 0.1rem;">高粘度塗布</td>
+<td style="border-top: 1px solid #595959; border-bottom: 1px solid #595959; border-collapse: collapse; box-shadow: inset 4px 0 0 #327ed2, inset -4px 0 0 #327ed2; color: #327ed2; font-size: 18px; background-color: #e1f6ff;">●</td>
+<td style="border: 1px solid #595959; border-collapse: collapse; font-size: 12px; color: #c0c0c0; background-color: #fafafa;">●</td>
+<td style="border: 1px solid #595959; border-collapse: collapse; font-size: 12px; color: #c0c0c0; background-color: #fafafa;"></td>
+<td style="border: 1px solid #595959; border-collapse: collapse; font-size: 12px; color: #c0c0c0; background-color: #fafafa;">●</td>
+<td style="border: 1px solid #595959; border-collapse: collapse; font-size: 12px; color: #c0c0c0; background-color: #fafafa;">●</td>
+</tr>
+<tr style="font-size: 12px; height: 50px;">
+<td style="border-top: 1px solid #595959; border-bottom: 1px solid #595959; border-left: 1px solid #595959; border-collapse: collapse; font-size: 16px; color: #232323; padding-right: 1%!important; padding-left: 1%!important; min-width: 55px; background-color: #e1f5ff; letter-spacing: 0.1rem;">連続塗布</td>
+<td style="border-top: 1px solid #595959; border-bottom: 1px solid #595959; border-collapse: collapse; box-shadow: inset 4px 0 0 #327ed2, inset -4px 0 0 #327ed2; color: #327ed2; font-size: 18px; background-color: #e1f6ff;">●</td>
+<td style="border: 1px solid #595959; border-collapse: collapse; font-size: 12px; color: #c0c0c0;">●</td>
+<td style="border: 1px solid #595959; border-collapse: collapse; font-size: 12px; color: #c0c0c0;">●</td>
+<td style="border: 1px solid #595959; border-collapse: collapse; font-size: 12px; color: #c0c0c0;"></td>
+<td style="border: 1px solid #595959; border-collapse: collapse; font-size: 12px; color: #c0c0c0;">●</td>
+</tr>
+<tr style="font-size: 12px; height: 50px;">
+<td style="border-top: 1px solid #595959; border-bottom: 1px solid #595959; border-left: 1px solid #595959; border-collapse: collapse; font-size: 16px; color: #232323; padding-right: 1%!important; padding-left: 1%!important; min-width: 55px; background-color: #e1f5ff; letter-spacing: 0.1rem;">厚膜塗布</td>
+<td style="border-top: 1px solid #595959; border-bottom: 1px solid #595959; border-collapse: collapse; box-shadow: inset 4px 0 0 #327ed2, inset -4px 0 0 #327ed2; color: #327ed2; font-size: 18px; background-color: #e1f6ff;">●</td>
+<td style="border: 1px solid #595959; border-collapse: collapse; font-size: 12px; color: #c0c0c0; background-color: #fafafa;">●</td>
+<td style="border: 1px solid #595959; border-collapse: collapse; font-size: 12px; color: #c0c0c0; background-color: #fafafa;"></td>
+<td style="border: 1px solid #595959; border-collapse: collapse; font-size: 12px; color: #c0c0c0; background-color: #fafafa;">●</td>
+<td style="border: 1px solid #595959; border-collapse: collapse; font-size: 12px; color: #c0c0c0; background-color: #fafafa;"></td>
+</tr>
+<tr style="font-size: 12px; height: 50px;">
+<td style="border-top: 1px solid #595959; border-bottom: 1px solid #595959; border-left: 1px solid #595959; border-collapse: collapse; font-size: 16px; color: #232323; padding-right: 1%!important; padding-left: 1%!important; min-width: 55px; background-color: #e1f5ff; letter-spacing: 0.1rem;">高速塗布</td>
+<td style="border-top: 1px solid #595959; border-bottom: 4px solid #327ed2; border-collapse: collapse; box-shadow: inset 4px 0 0 #327ed2, inset -4px 0 0 #327ed2; color: #327ed2; font-size: 18px; background-color: #e1f6ff;">●</td>
+<td style="border: 1px solid #595959; border-collapse: collapse; font-size: 12px; color: #c0c0c0;">●</td>
+<td style="border: 1px solid #595959; border-collapse: collapse; font-size: 12px; color: #c0c0c0;"></td>
+<td style="border: 1px solid #595959; border-collapse: collapse; font-size: 12px; color: #c0c0c0;"></td>
+<td style="border: 1px solid #595959; border-collapse: collapse; font-size: 12px; color: #c0c0c0;"></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p style="padding-top: 5px;">※比較表：塗布別 / 製品別</p>
+&nbsp;
+<p style="border-left: 7px solid #b22222; border-bottom: 1px solid #b22222; padding-left: 16px;">仕 様</p>
+
+<ol>
+ 	<li>塗布幅 Max 300mm</li>
+ 	<li>粘度：数mPa・s（cps）〜50,000mPa・s（cps）</li>
+ 	<li>塗布膜厚：～1,000μm/Wet</li>
+ 	<li>膜厚精度：±3〜5％以下</li>
+ 	<li>塗液使用効率：90％以上</li>
+</ol>
+※塗布条件によって対応粘度は相談可能です。
+※低露点雰囲気下での塗工にも対応。
+<div class="ifr-mwh560-315" style="font-weight: bold;">製品紹介ビデオ
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/sH61MrGKRQ0" width="300" height="168" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+&nbsp;
+<div class="ifr-mwh560-315" style="font-weight: bold;">動作説明ビデオ
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/9eug3pzyMds" width="300" height="168" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+&nbsp;
+<div class="ifr-mwh560-315" style="font-weight: bold;">ホイールコータ間欠ビデオ
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/tKpnUiE3aYk" width="300" height="168" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+&nbsp;
+<div class="ifr-mwh560-315" style="font-weight: bold;">ホイールコータ塗布ビデオ
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/zwZK0g5X_oE" width="300" height="168" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+&nbsp;
+<p style="border-left: 7px solid #b22222; border-bottom: 1px solid #b22222; padding-left: 16px;">システム対応</p>
+システムでのご提案も承っております。
+
+プロセスフロー例：
+ロードポート（EFEM） → アライメント →コータ → BAKE → CP → ロードポート（EFEM）
+乾燥プロセス Option：VCD（真空乾燥装置）
+焼成プロセス Option：Cure Oven等との組合せも可能
+
+<img style="width: 560px; max-width: 100%;" src="//chugai.co.jp/wp/wp-content/uploads/2020/06/RS-coater-system.jpg" alt="" />
+<a href="https://emotion-tech.net/pFEhUb0d" target="_blank"><img src="//chugai.co.jp/wp/wp-content/uploads/2021/03/ankeito-btn.png" /></a>
+
+→ <a href="/contact_form/" target="_blank">お問い合わせはこちら</a>
+<div id="test"></div>
+<!--
+<h2>関連受託テストのご紹介</h2>
+<h3>受託テーマ 「円形基材への精密塗工テスト」</h3>
+<div style="float: left;"><img src="//chugai.co.jp/wp/wp-content/uploads/2016/07/p13_04s.jpg" /></div>
+<div style="float: left; margin-left: 50px;">
+<div class="test_b_1">テスト装置名</div>
+<div style="; padding-bottom: 9px;">円コータ</div>
+<div class="test_b_1">テスト装置の設置場所</div>
+<div style="padding-bottom: 9px;">当社堺事業所（大阪府堺市）</div>
+<div style="border: 1px solid #b22222; padding: 4px; background-color: #ffeeee;"><a href="/contact_form/" target="_blank">お申し込み・お問い合わせは「受託テストのお申し込み」フォームをご利用ください。</a></div>
+</div>
+<div class="clear"></div>
+<p style="border-left: 7px solid #b22222; border-bottom: 1px solid #b22222; padding-left: 16px; margin-top: 2em;">装置概要</p>
+
+<ul style="list-style: none;">
+ 	<li>ウエハなどの円形基材に、直接・ノンタッチで円形の全面・全量塗工を行う装置です。
+従来から使用されてきたスピンコータと異なり、塗工液ロスの無い高精度のコータです。またスピンコータでは難しいとされた高粘度塗工液の使用や厚塗りも可能です。</li>
+</ul>
+<p style="border-left: 7px solid #b22222; border-bottom: 1px solid #b22222; padding-left: 16px;">主な用途</p>
+
+<ul style="list-style: none;">
+ 	<li>●半導体／半導体パッケージング　●電子部品　●各種ディスク　●回路形成膜
+●電極　●磁性材　●絶縁膜　●導電膜　●MEMS　●半導体パッケージング　など</li>
+</ul>
+<p style="border-left: 7px solid #b22222; border-bottom: 1px solid #b22222; padding-left: 16px;">装置仕様</p>
+
+<ul style="list-style: none;">
+ 	<li>●最大基材寸法：φ180mm
+●塗工膜厚：WET50μm〜
+●塗工液粘度：0.001～100Pa・s（1～100,000cps）
+●装置環境：class 100
+●基板搬送：Operatorによる手作業</li>
+</ul>
+<span style="color: #b22222;">▼テスト概要の説明項目</span>（テストお申し込みの際、これらの項目をご参考に、概要説明願います。)
+<div style="border: 1px solid #b22222; padding: 5px;">・基材（材質、寸法）　・塗工液（品名、粘度、塗工膜厚）</div>
+<h3>受託テストのお申し込み・お問い合わせ</h3>
+<ul>
+ 	<li>テストは基本的に有償です。（テスト詳細が確定後、お見積書を提出いたします。）</li>
+ 	<li>テストを希望される方は、下記の「受託テストのお申し込み」ボタンをクリックし、「テストお申し込み専用フォーム」に必要事項を入力のうえ、送信してください。</li>
+ 	<li>ご依頼内容によっては、お断りする場合もあります。</li>
+ 	<li>テスト装置の使用状況により、長期間お待ちいただかなければならない場合があります。</li>
+</ul>
+<b>※ 中外炉工業では、設備導入のご商談を頂いているお客様のためのテスト装置を準備しています。<span style="color: red;">賃加工や単独テストなどはお引き受けしておりません</span>ので、ご了承願います。</b>
+
+→<a href="/contact_form/" target="_blank">受託テストのお申し込み</a>
+-->
+<script>
+	function applyResponsiveStyles() {
+    var tableContainer = document.getElementById('table-container');
+    if (window.innerWidth <= 800) {
+        tableContainer.style.overflowX = 'scroll';
+    } else {
+        tableContainer.style.overflowX = 'auto';
+    }
+}
+
+// ページロード時とウィンドウリサイズ時に関数を呼び出す
+window.addEventListener('load', applyResponsiveStyles);
+window.addEventListener('resize', applyResponsiveStyles);
+</script>
