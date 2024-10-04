@@ -230,3 +230,6 @@
 window.addEventListener('load', applyResponsiveStyles);
 window.addEventListener('resize', applyResponsiveStyles);
 </script>
+
+## 10/04追加 index10.html(展示会2024ページ追加など)
+命名規則でファイル制作、設置
